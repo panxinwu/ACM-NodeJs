@@ -9,9 +9,8 @@ If the length of the input string is 0, return value must be 0.
 
 Example:
 
-``` "a" -> 1 
-"aab" -> 2  
-"abcde" -> 1
-"zzbaabcd" -> 4
-"" -> 0
-```
+- "a" -> 1 
+- "aab" -> 2  
+- "abcde" -> 1
+- "zzbaabcd" -> 4
+- "" -> 0
