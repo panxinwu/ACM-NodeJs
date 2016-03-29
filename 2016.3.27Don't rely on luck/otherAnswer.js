@@ -1,0 +1,1 @@
+var guess = 10 Math.floor = function(v) { return guess; }

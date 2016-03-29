@@ -1,0 +1,1 @@
+Math.random = function(n){return 0;} var guess = 1;
